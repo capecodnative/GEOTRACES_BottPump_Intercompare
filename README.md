@@ -5,4 +5,4 @@ Scripts used to generate the figures and data are in the root directory.
 
 Figure outputs are in the /Figures subdirectory, organized by transect.
 
-Source data, mostly from BCO-DMO, are in the /SourceData subdirectory.
+Source data, mostly from the GEOTRACES IDP, are in the /SourceData subdirectory.
